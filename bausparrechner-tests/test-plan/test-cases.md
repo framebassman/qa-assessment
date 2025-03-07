@@ -1,6 +1,7 @@
 ## Unit tests
 ### Tariff cards
 #### Click tariff card - tariff is marked as selected
+#### User can see details popup for the correspondent tariff
 #### Mobile view - only one tariff is displayed
 #### Movile view - carousel
 ##### User can select next tariff card
@@ -26,7 +27,7 @@
 
 
 ## Integration tests
-### If tarrif is selected - Gewünschte Einzahlungsvariante card is displayed
+### If tariff is selected - Gewünschte Einzahlungsvariante card is displayed
 ### Slider is connected to the input
 ### Input is connected to the slider
 ### Input is connected to the Building Savings sidebar
